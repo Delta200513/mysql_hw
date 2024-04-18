@@ -1,0 +1,1 @@
+SELECT * FROM db_37ee9a.hardware;
